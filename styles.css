@@ -1,0 +1,35 @@
+
+.brand
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(21, 27, 21, 0.993);
+    font-family: 'Courgette', cursive;
+}
+.footer{
+    padding-top: 2%;
+    color: #868e96;
+    text-align: center;
+  }
+
+  .ico{
+    padding: 0;
+  }
+
+  .icon{
+      text-decoration: none;
+      list-style: none;
+      margin: 0 7px 0;
+      display: inline;
+      
+  }
+  .instagram{
+    color: #fb3958;
+  }
+  .google{
+    color: #ea4335;
+  }
+
+  .instagram:hover , .google:hover {
+    color: black;
+}
